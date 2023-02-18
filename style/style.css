@@ -16,6 +16,10 @@ h2 {
 h3 {
   text-align: center;
 }
+h4 {
+  text-align: center;
+  font-size: 18px;
+}
 a {
   text-decoration: none;
 }
