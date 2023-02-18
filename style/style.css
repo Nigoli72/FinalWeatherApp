@@ -1,0 +1,58 @@
+body {
+  background: #64c4ed;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1 {
+  text-align: center;
+  font-weight: bolder;
+}
+h2 {
+  display: block;
+  text-align: center;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+h3 {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+button {
+  margin: 0 auto;
+  padding: 10 30;
+  font-size: 18px;
+  font-weight: lighter;
+  border-radius: 4px;
+}
+.currentTemp {
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 85px;
+  margin-top: 50px;
+  text-decoration: none;
+}
+.currentCity {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+  padding: 25px 0px;
+}
+
+.weatherImage {
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-right: 35px;
+}
+.city {
+  text-align: center;
+  font-size: 20px;
+}
+.forecast {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  font-size: 30px;
+}
